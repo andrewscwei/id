@@ -1,0 +1,15 @@
+{
+  "name": "@andrewscwei/id",
+  "version": "1.0.0",
+  "description": "Digital fingerprint",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andrewscwei/id.git"
+  },
+  "author": "Andrew Wei <andrewscwei@gmail.com>",
+  "license": "NOLICENSE",
+  "files": [
+    "node"
+  ]
+}
