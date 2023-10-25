@@ -9,7 +9,5 @@
   },
   "author": "Andrew Wei <andrewscwei@gmail.com>",
   "license": "NOLICENSE",
-  "files": [
-    "node"
-  ]
+  "types": "index.d.ts"
 }
